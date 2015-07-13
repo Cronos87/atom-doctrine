@@ -1,0 +1,14 @@
+{
+  "name": "doctrine",
+  "version": "0.0.1",
+  "description": "A simple Doctrine package that add completions",
+  "keywords": [
+  ],
+  "repository": "https://github.com/atom/doctrine",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
