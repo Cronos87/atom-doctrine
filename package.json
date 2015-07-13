@@ -1,10 +1,13 @@
 {
   "name": "doctrine",
-  "version": "0.0.1",
-  "description": "A simple Doctrine package that add completions",
+  "version": "0.1.0",
+  "description": "Doctrine support for Atom",
   "keywords": [
+      "doctrine",
+      "orm",
+      "php"
   ],
-  "repository": "https://github.com/atom/doctrine",
+  "repository": "https://github.com/Cronos87/atom-doctrine",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
