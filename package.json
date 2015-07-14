@@ -1,17 +1,16 @@
 {
   "name": "doctrine",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Doctrine support for Atom",
   "keywords": [
-      "doctrine",
-      "orm",
-      "php"
+    "doctrine",
+    "orm",
+    "php"
   ],
   "repository": "https://github.com/Cronos87/atom-doctrine",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
