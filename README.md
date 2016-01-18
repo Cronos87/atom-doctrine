@@ -43,7 +43,7 @@ At the moment only support functions completion.
  - `UniqueConstraint`
  - `Version`
 
- ### ORM Functions Parameters
+### ORM Functions Parameters
 
  - `allocationSize`
  - `cascade`
